@@ -1,0 +1,3 @@
+# TCP/IP Stack in Python
+# Built 100% using Python 3 Standard Library!
+# Zero mandatory external dependencies required.
